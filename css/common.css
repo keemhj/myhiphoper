@@ -702,7 +702,7 @@ input[type=checkbox] {display:none}
 #footer .button_tip_toggle {display:block}
 #footer .button_tip_toggle span {font-size: 14px; color: #888; font-weight:500; display:inline-block;position: relative}
 #footer .button_tip_toggle span:after {margin-left: 5px; content:'';display:inline-block;background:url("../common/images/ico/acco_arrow-gray.png") 0 0 no-repeat; width: 10px; height: 5px; vertical-align:2px}
-#footer .button_tip_toggle.on span:after {background:url("data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAFCAYAAAB8ZH1oAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAABrSURBVBhXXcqxCkBQGIbhQ7kDoywGg8FtuBODCzDZT0qZLVIkZbZI5G7chfeczil56+kf/s+RUopPPjZ4yPBA55qrCnBjwYALIXR2GEE9WjTm1jgRQw8THKjQwdajxI5UDUcUmPFvRS6EmF4f7xIVsncdqQAAAABJRU5ErkJggg==") 0 0 no-repeat; width: 10px; height: 5px}
+#footer .button_tip_toggle.on span:after {background:url("../common/images/ico/acco_arrow-gray_on.png") 0 0 no-repeat; width: 10px; height: 5px}
 #footer table {margin-top: 10px;}
 #footer table tr td {vertical-align: top}
 #footer table tr td:first-child {width: 115px; padding-right: 18px;}
